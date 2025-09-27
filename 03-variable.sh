@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#No space required for variables.
 PERSON1=John
 PERSON2=Chris
 echo "$PERSON1: Hi How are You"
